@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Foundry Fund Me
 
 - [Foundry Fund Me](#foundry-fund-me)
@@ -19,7 +19,6 @@
   - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
   - [Summary](#summary)
 - [Thank you!](#thank-you)
-- [Foundry-fund-me-PH](#foundry-fund-me-ph)
 
 
 # Getting Started
@@ -164,7 +163,4 @@ ETH/Arbitrum/Polygon/etc Address: 0x344d2EFF6823E4C59E6af62Cd0B9b3757d9ff85C
 [![Lhoussaine Ait Aissa Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lhoussaineph)
 [![Lhoussaine Ait Aissa Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhoussaine-ait-aissa/)
 
-=======
-# Foundry-fund-me-PH
-Foundry-fund-me
->>>>>>> origin/main
+
